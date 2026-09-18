@@ -1,4 +1,5 @@
 FROM NGNIX
+FROM NGNIX-1
 FROM python:3.10-slim
 
 WORKDIR /app
