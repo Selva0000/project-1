@@ -1,5 +1,5 @@
 FROM python:3.10-slim
-llllllllllllllll
+
 WORKDIR /app
 
 COPY . /app
